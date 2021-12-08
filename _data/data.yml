@@ -108,7 +108,13 @@ skills:
       level: 80%  
 
     - name: CSS
-      level: 80%     
+      level: 80%  
+
+    - name: SCSS
+      level: 80%  
+
+    - name: SASS
+      level: 80%      
 
     - name: React
       level: 60%
@@ -128,7 +134,19 @@ skills:
     - name: C++
       level: 20%
 
+    - name: Unity
+      level: 40%
+    
+    - name: C#
+      level: 40%
+
+    - name: Blender
+      level: 80%
+
     - name: Python
+      level: 20%
+
+    - name: PHP
       level: 20%
 
 # NO MODIFICAR
