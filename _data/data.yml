@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Gabriel Alejandro Ballesteros Rodriguez # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline: React and React Native Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
@@ -40,6 +40,9 @@ sidebar:
     - item: Leadership
       link: # dejar en blanco
 
+    - item: Creativity
+      link: # dejar en blanco
+
     - item: Team Work
       link: # dejar en blanco
 
@@ -55,29 +58,34 @@ sidebar:
     - item: Growth mindset
       link: # dejar en blanco
 
-    - item: Creativity
-      link: # dejar en blanco
-
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a selftaught UI designer and Web developer, creating user interfaces is something im passionate about i also love to come up with app ideas that can make life a bit easier i do some developement with a small team consisting of two friends from college, i enjoy making music and learning about code and design.
+    I am a selftaught UI designer and Web developer, creating user interfaces is something im passionate about i also love to come up with app ideas that can make life a bit easier i do some developement with a small team consisting of two friends from college, i enjoy making music, code, and having fun with my firends.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+
+  - degree: Computational Systems Engineer
+    university: Tecnological institute of Colima
+    time: 2019 - 2022
+    details: 
+
   - degree: Programming Technician
     university: CBTis19
     time: 2015 - 2018
     details: |
 
-  - degree: Computational Systems Engineer
-    university: Tecnological institute of Colima
-    time: 2019 - Current
-    details: 
-
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences: 
+
+- role: Frontend, UI and Web Designer
+    time: 2022 - Current
+    company: ColimaSoft
+    details: |
+      Starting 2022 i joined ColimaSoft as a junior developer / intern, im currently working with React js and GraphQL aswell as Web & UI design, building a web application for an in-house project. 
+
   - role: Frontend, UI and Web Designer
     time: 2020 - 2020
     company: SNTSS
@@ -101,26 +109,45 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+
+    - name: React
+      level: 75%
+
+    - name: React Native
+      level: 65%
+
     - name: Figma
-      level: 80%  
+      level: 80%
 
-    - name: HTML
-      level: 80%  
-
-    - name: CSS
-      level: 80%  
+    - name: Blender 3D
+      level: 80%
 
     - name: SCSS
       level: 80%  
 
     - name: SASS
-      level: 80%      
-
-    - name: React
-      level: 60%
+      level: 80%              
 
     - name: JS
-      level: 60%
+      level: 65%
+
+    - name: GraphQL
+      level: 40%  
+
+    - name: Jest
+      level: 40%  
+
+    - name: Firebase / Auth / Store
+      level: 45%  
+
+    - name: Auth0
+      level: 30%
+
+    - name: HTML
+      level: 80%  
+
+    - name: CSS
+      level: 80%      
 
     - name: Java
       level: 75%
@@ -128,25 +155,22 @@ skills:
     - name: Swift
       level: 40%
 
-    - name: VB
-      level: 50%
-
-    - name: C++
-      level: 20%
-
     - name: Unity
       level: 40%
     
     - name: C#
-      level: 40%
-
-    - name: Blender
-      level: 80%
+      level: 40% 
+    
+    - name: VB
+      level: 50%    
 
     - name: Python
       level: 20%
 
     - name: PHP
+      level: 20%
+
+    - name: Flutter
       level: 20%
 
 # NO MODIFICAR
