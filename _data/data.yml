@@ -126,7 +126,13 @@ skills:
       level: 80%  
 
     - name: SASS
-      level: 80%              
+      level: 80%  
+
+    - name: CSS Modules
+      level: 60%  
+
+    - name: Styled Components
+      level: 60%              
 
     - name: JS
       level: 65%
