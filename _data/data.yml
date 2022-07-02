@@ -80,8 +80,8 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences: 
 
-- role: Frontend, UI and Web Designer
-    time: 2022 - Current
+  - role: Frontend, UI and Web Designer
+    time: 2022 - Pressent
     company: ColimaSoft
     details: |
       Starting 2022 i joined ColimaSoft as a junior developer / intern, im currently working with React js and GraphQL aswell as Web & UI design, building a web application for an in-house project. 
